@@ -1,0 +1,17 @@
+\contentsline {paragraph}{Music Classification using Machine Learning}{}% 
+\contentsline {subparagraph}{ITRW 367}{}% 
+\contentsline {subparagraph}{Eon Viljoen}{}% 
+\contentsline {subparagraph}{BSc Hons 2020}{}% 
+\contentsline {subparagraph}{Mnr D. Snyman}{}% 
+\contentsline {subparagraph}{Computer Science and Information Technology}{}% 
+\contentsline {subparagraph}{NWU Potchefstroom Campus}{}% 
+\contentsline {section}{\numberline {1}Project Description}{1}% 
+\contentsline {section}{\numberline {2}Problem description and background}{1}% 
+\contentsline {section}{\numberline {3}Aims and objectives of project}{1}% 
+\contentsline {section}{\numberline {4}Procedures and methods that will be used }{1}% 
+\contentsline {section}{\numberline {5}Approach to project management and project plan }{1}% 
+\contentsline {section}{\numberline {6}Description of development platform, resources, and environments that will be used}{1}% 
+\contentsline {section}{\numberline {7}Ethical and legal implications and dealing with these}{1}% 
+\contentsline {section}{\numberline {8}Provisional chapter division}{1}% 
+\contentsline {section}{\numberline {9}References}{1}% 
+\contentsline {section}{\numberline {10}Research proposal according to prescribed template}{1}% 
